@@ -10,7 +10,7 @@ headers = {'content-type': 'application/json', "authorization": "key=" + API_KEY
 
 data = {
         "sender": "Yunus",
-        "date": "2014-08-15 13:26:13",
+        "date": "2016-04-12 10:23:13",
         "title": "GCM",
         "message": "Deneme",}
 
