@@ -12,7 +12,7 @@ data = {
         "sender": "Yunus",
         "date": "2014-08-15 13:26:13",
         "title": "GCM",
-        "mesaj": "Deneme",}
+        "message": "Deneme",}
 
 post_data = {}
 
