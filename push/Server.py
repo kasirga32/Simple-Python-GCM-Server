@@ -1,6 +1,5 @@
 from gcm import GCM
 
-
 # Plain text request
 
 API_KEY = "AIzaSyDfPt_RsXH5UacPfDWbUKLsdswuS5o0FbQ"
